@@ -1,0 +1,118 @@
+2022/02/06 16:37:21 [ERROR]: optionsFile does not exist with error {cert:PS9KSAXHMukTqFOrWcYHlil6z/gf6IZI4KtObc3TRKN3MltOIan5RZbkjCoqsA3lyB9XOQ,iat-mode:0} CreateFile {cert:PS9KSAXHMukTqFOrWcYHlil6z/gf6IZI4KtObc3TRKN3MltOIan5RZbkjCoqsA3lyB9XOQ,iat-mode:0}: The filename, directory name, or volume label syntax is incorrect.
+2022/02/06 16:37:21 [INFO]: initializing transparent proxy
+2022/02/06 16:37:21 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:37:21 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:37:21 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:37:21 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:37:21 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:37:29 [INFO]: initializing transparent proxy
+2022/02/06 16:37:29 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:37:29 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:37:29 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:37:29 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:37:29 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:37:32 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:37:32 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:37:32 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:37:58 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:37:58 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:37:59 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:02 [INFO]: initializing transparent proxy
+2022/02/06 16:38:02 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:38:02 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:38:02 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:38:02 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:38:02 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:38:04 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:04 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:04 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:19 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:19 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:19 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:29 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:29 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:29 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:41 [INFO]: initializing transparent proxy
+2022/02/06 16:38:41 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:38:41 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:38:41 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:38:41 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:38:41 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:38:44 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:44 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:38:44 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:43 [INFO]: initializing transparent proxy
+2022/02/06 16:39:43 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:39:43 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:39:43 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:39:43 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:39:43 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:39:47 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:47 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:47 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:48 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:48 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:48 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:53 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:53 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:39:53 [ERROR]: Could not parse options obfs4 options json decoding error
+2022/02/06 16:42:02 [INFO]: initializing transparent proxy
+2022/02/06 16:42:02 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:42:02 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:42:02 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:42:02 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:42:02 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:43:12 [INFO]: initializing transparent proxy
+2022/02/06 16:43:12 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:43:12 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:43:12 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:43:12 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:43:12 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:43:55 [INFO]: initializing transparent proxy
+2022/02/06 16:43:55 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:43:55 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:43:55 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:43:55 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:43:55 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 16:48:15 [INFO]: initializing transparent proxy
+2022/02/06 16:48:15 [INFO]: initializing TCP transparent proxy
+2022/02/06 16:48:15 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 16:48:15 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 16:48:15 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 16:48:15 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 17:04:15 [INFO]: initializing transparent proxy
+2022/02/06 17:04:15 [INFO]: initializing TCP transparent proxy
+2022/02/06 17:04:15 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 17:04:15 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 17:04:15 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 17:04:15 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 17:06:54 [INFO]: initializing transparent proxy
+2022/02/06 17:06:54 [INFO]: initializing TCP transparent proxy
+2022/02/06 17:06:54 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 17:06:54 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 17:06:54 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 17:06:54 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 17:07:17 [INFO]: initializing transparent proxy
+2022/02/06 17:07:17 [INFO]: initializing TCP transparent proxy
+2022/02/06 17:07:17 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 17:07:17 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 17:07:17 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 17:07:17 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 17:09:40 [INFO]: initializing transparent proxy
+2022/02/06 17:09:40 [INFO]: initializing TCP transparent proxy
+2022/02/06 17:09:40 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 17:09:40 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 17:09:40 [INFO]: obfs4 - registered listener: 127.0.0.1:1443
+2022/02/06 17:09:40 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 17:27:24 [INFO]: initializing transparent proxy
+2022/02/06 17:27:24 [INFO]: initializing TCP transparent proxy
+2022/02/06 17:27:24 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 17:27:24 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 17:27:24 [INFO]: obfs4 - registered listener: 127.0.0.1:1723
+2022/02/06 17:27:24 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
+2022/02/06 17:28:18 [INFO]: initializing transparent proxy
+2022/02/06 17:28:18 [INFO]: initializing TCP transparent proxy
+2022/02/06 17:28:18 [NOTICE]: dispatcher-0.0.7-dev - launched
+2022/02/06 17:28:18 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - initializing client transport listeners
+2022/02/06 17:28:18 [INFO]: obfs4 - registered listener: 127.0.0.1:1723
+2022/02/06 17:28:18 [INFO]: C:\Users\fuccsoc\Documents\obfs4\shapeshifter-dispatcher\shapeshifter-dispatcher.exe - accepting connections
